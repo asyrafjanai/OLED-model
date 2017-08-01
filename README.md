@@ -1,2 +1,2 @@
 # OLED-model
-regression model based on OLED data colelcted
+regression model based on OLED data collected
