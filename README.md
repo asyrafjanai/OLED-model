@@ -1,8 +1,8 @@
 # OLED-model
 regression model based on OLED data collected
 
-![Alt text](http://spie.org/Images/Graphics/Newsroom/Imported-2012/004167/004167_10_fig2.jpg "Optional title")
-<img src="http://spie.org/Images/Graphics/Newsroom/Imported-2012/004167/004167_10_fig2.jpg" width="12">
+
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNJxqXZaFc2wnCjh2T0_nTnyM6aJE6Ke8rsno_z6eqbSWwqZj "Optional title")
 
 this is a typical OLED device
 
