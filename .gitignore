@@ -1,2 +1,6 @@
 
 heatmap.png
+heatmap_tif.tiff
+*.tiff
+*.png
+*.xlsx
