@@ -1,4 +1,4 @@
-
+.ipynb_checkpoints/*
 heatmap.png
 heatmap_tif.tiff
 *.tiff
